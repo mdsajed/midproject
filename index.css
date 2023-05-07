@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+  }
+.profile_img{
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+}
+.footer{
+    text-align: center;
+}
+.description{
+    text-align: center;
+}
+.Div{
+    border-radius: 25px;
+    display: inline-block;
+    text-align: center;
+    width: auto;
+    padding: 10px;
+    border: 5px solid white;
+    margin: 0;
+}
+.img2{
+    text-align: center;
+    height: 50%;
+    width: 50%;
+}
+

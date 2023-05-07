@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+  }
+  .Div {
+    border-radius: 25px;
+    display: inline-block;
+    text-align: center;
+    width: auto;
+    padding: 10px;
+    border: 5px solid white;
+    margin: 0;
+
+  }
